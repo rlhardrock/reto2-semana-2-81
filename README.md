@@ -1,5 +1,10 @@
 # reto2-semana-2-81
 
+
+CAMBIAR LA FOTO DE  GITHUB   --- EL ENLACE SI QUE CREE SI SE DEJA LEER 
+
+
+
 ## Project setup
 ```
 npm install
