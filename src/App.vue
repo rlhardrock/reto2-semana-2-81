@@ -1,17 +1,29 @@
 <template>
   <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <seccion-menu></seccion-menu>
+    <seccion-banner></seccion-banner>
+    <seccion-servicios></seccion-servicios>
+    <seccion-footer></seccion-footer>
+
   </div>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+/* import HelloWorld from './components/HelloWorld.vue' */
+import SeccionMenu from './components/SeccionMenu.vue'
+import SeccionBanner from './components/SeccionBanner.vue'
+import SeccionServicios from './components/SeccionServicios.vue'
+import SeccionFooter from './components/SeccionFooter.vue'
+
 
 export default {
   name: 'App',
   components: {
-    HelloWorld
+    /* HelloWorld, */
+    SeccionMenu,
+    SeccionBanner,
+    SeccionServicios,
+    SeccionFooter
   }
 }
 </script>
@@ -23,6 +35,6 @@ export default {
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #2c3e50;
-  margin-top: 60px;
+  margin-top: 0px;
 }
 </style>
