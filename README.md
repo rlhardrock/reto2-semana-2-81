@@ -1,7 +1,35 @@
 # reto2-semana-2-81
 
+CAMBIAR LA FOTO DE  GITHUB  
 
-CAMBIAR LA FOTO DE  GITHUB   --- EL ENLACE SI QUE CREE SI SE DEJA LEER 
+#########       FORMA FACIL      ###########
+
+CLONAR   -->  MASTER  <--  (NO ZIP, LA CLONACION YA TIENE LOS PERMISOS)
+REVISAR QUE RAMAS EXISTEN
+CREAR (SI NO LA HAY) LA RAMA  DEVELOPMENT Y UBICARSE EN ELLA
+REVISION DE RAMAS   ---> git branch
+CREACION DE RAMA    ---> git branch development
+
+CREAR DESDE DEVELOPMENT PROPIA RAMA Y TRABAJAR
+           HACER    ---> git push origin su_rama    (NO USAR -U  )
+
+CUANDO HAY UN CAMBIO POSITIVO    git add      git commit
+
+CUANDO TERMINE  LABORES Y SE VA A DESCANZAR O TERMINO SU "FEATURE"
+EN SEGUIDA HACER    ---> git checkout development
+
+                    ---> git merge su_rama
+    HASTA ALLI FINAL
+
+NO HACER  -->  GIT PUSH ORIGIN MASTER <--
+
+
+CUANDO RETOME EL PROYECTO
+JALAR LOS CAMBIOS REALIZADOS A SU LOCAL (SI NO LO HACE GENERA CONFLICTO)
+--> git pull origin master
+
+
+#########       FORMA BLOQUEDA      ###########
 
 
 
