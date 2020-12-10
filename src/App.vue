@@ -1,7 +1,8 @@
 <template>
   <div id="app">
     <seccion-menu></seccion-menu>
-    <seccion-banner></seccion-banner>
+        <seccion-banner></seccion-banner>
+    <br>
     <div class="container-fluid">
       <seccion-servicios></seccion-servicios>
     </div>

@@ -9,7 +9,7 @@
         </ol>
         <div class="carousel-inner">
             <div class="carousel-item active">
-                <img src="@/assets/img/BigData.jpeg" alt="Data science" class="bd-placeholder-img bd-placeholder-img-lg d-block w-100"  height="550">
+                <img src="@/assets/img/BigData.jpg" alt="Big Data" class="bd-placeholder-img bd-placeholder-img-lg d-block w-100"  height="550">
 
                     <div class="carousel-caption d-none d-md-block"> 
                         <h3>Data Science</h3>
@@ -17,7 +17,7 @@
                     </div>
             </div>
             <div class="carousel-item">
-                <img src="@/assets/img/DataScience.jpeg" alt="Big data" class="bd-placeholder-img bd-placeholder-img-lg d-block w-100"  height="550">
+                <img src="@/assets/img/DataScience.jpg" alt="Data Science" class="bd-placeholder-img bd-placeholder-img-lg d-block w-100"  height="550">
                 
                     <div class="carousel-caption d-none d-md-block"> 
                         <h3>Big Data</h3> 
@@ -25,7 +25,7 @@
                     </div> 
             </div>
             <div class="carousel-item"> 
-                <img src="@/assets/img/MachineLearning.jpeg" alt="Big data" class="bd-placeholder-img bd-placeholder-img-lg d-block w-100"  height="550">
+                <img src="@/assets/img/MachineLearning.png" alt="Machine Learning" class="bd-placeholder-img bd-placeholder-img-lg d-block w-100"  height="550">
                     
                     <div class="carousel-caption d-none d-md-block"> 
                         <h3>Machine Learning</h3> 
