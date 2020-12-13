@@ -10,9 +10,7 @@
     </div>
 
     <div class="container-fluid">
-      <div class="row mt-md-5 mt-sm-5 mt-xs-5 bg-dark text-white">
-        <news-api></news-api>
-      </div>
+      <news-api></news-api>
     </div>
 
     <div class="container-fluid">
