@@ -1,12 +1,18 @@
 <template>
   <div id="app">
+    
     <seccion-menu></seccion-menu>
-        <seccion-banner></seccion-banner>
+    <seccion-banner></seccion-banner>
     <br>
+
     <div class="container-fluid">
       <seccion-servicios></seccion-servicios>
     </div>
-    <news-api></news-api>
+
+    <div class="container-fluid">
+      <news-api></news-api>
+    </div>
+
     <div class="container-fluid">
       <div class="row justify-content-center mb-5">
         <div class=" col mt-5" v-for="(item, index) of team" :key="index">
@@ -14,7 +20,9 @@
         </div>
       </div>
     </div>
+
     <seccion-footer></seccion-footer>
+
   </div>
 </template>
 
